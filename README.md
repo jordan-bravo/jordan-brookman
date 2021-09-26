@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jordan-brookman
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React, TypeScript, Carbon Design System
+- 🌱 I’m currently learning React, TypeScript, Carbon Design System, React Native
 
 <!---
 jordan-brookman/jordan-brookman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
